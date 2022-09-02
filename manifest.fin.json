@@ -58,7 +58,7 @@
   },
   "customSettings": {
     "appProvider": {
-      "appsSourceUrl": "https://github.com/Hexum064/vibranium-poc-test-files/blob/main/apps.json",
+      "appsSourceUrl": "https://raw.githubusercontent.com/Hexum064/vibranium-poc-test-files/main/apps.json",
       "includeCredentialOnSourceRequest": "include",
       "manifestTypes": [
         "view",
